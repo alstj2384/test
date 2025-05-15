@@ -1,7 +1,7 @@
 # 🐿️ Learn & Memorize Intelligence (LAMI)
 
-### AI 학습 도우미 플랫폼
-
+<h3 align=center>프로그래밍을 게임처럼 즐기는, 실시간 참여형 학습 플랫폼</h3>
+<div style="text-align: center"><img src="./images/LAMI.png" alt="LAMI"></div>
 
 ### 📜 목차 
 
@@ -107,7 +107,7 @@
 
 
 아키텍쳐 구조도
-  ![아키텍쳐](images/architecture.png)
+![아키텍쳐](images/architecture.png)
 
 ERD
 ![ERD](images/erd.png)
