@@ -1,27 +1,33 @@
-# 🐿️ Learn & Memorize Intelligence (LAMI)
+#  Learn & Memorize Intelligence (LAMI)
 
-<h3 align=center>프로그래밍을 게임처럼 즐기는, 실시간 참여형 학습 플랫폼</h3>
+<h3 align=center>AI 학습 도우미 플랫폼</h3>
 <div style="text-align: center"><img src="./images/LAMI.png" alt="LAMI"></div>
+
+<br>
 
 ### 📜 목차 
 
 ---
 
-1. 프로젝트 일정
-2. 프로젝트 개요
-3. 서비스 소개
-4. 주요 기능
-5. 기술 스택
-6. 산출물
-7. 팀원 소개
+1. [**프로젝트 일정**](#1)
+2. [**프로젝트 개요**](#2)
+3. [**서비스 소개**](#3)
+4. [**주요 기능**](#4)
+5. [**기술 스택**](#5)
+6. [**산출물**](#6)
+7. [**팀원 소개**](#7)
+   <br><br><br>
 
-
+<div id="1"></div>
 
 ### 🗓️ 프로젝트 일정
 
 ---
 
 - 일정: 2025년 4월 3일 ~ 6월 12일 (10주)
+  <br><br><br>
+
+<div id="1"></div>
 
 ### 🔎 프로젝트 개요
 
@@ -39,6 +45,10 @@
 - 마이크로소프트, 애플, 엔비디아 등이 투자자로 오픈AI는 1500억 달러(약 200조원) 기업가치로 투자를 유치중
 }}}
 
+<br><br>
+
+<div id="2"></div>
+
 ### 🔎 서비스 소개
 
 ---
@@ -46,8 +56,12 @@
 
 - PDF/스크립트 기반 문제 생성
 - 생성한 문제를 공유하고 풀이 가능
-- 자동 채점 및 오답 피드백 + 암기법 제공
+- 자동 채점 및 오답 피드백과 암기법 제공
 - 복습 카테고리 추가로 주기적 리마인드 제공
+
+<br><br>
+
+<div id="3"></div>
 
 ### 🔎 주요 기능
 
@@ -57,7 +71,11 @@
 - 문제 공유:
 - 문제 풀기:
 - 피드백 및 암기법 제공:
-- 리마인드 할 문제를 복습 기능에 추가
+- 복습할 문제를 주기적으로 리마인드:
+
+<br><br>
+
+<div id="4"></div>
 
 ### ⚒️ 기술 스택
 
@@ -99,7 +117,9 @@
 
   ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  <br><br>
 
+<div id="5"></div>
 
 ### 📜 산출물
 
@@ -112,6 +132,10 @@
 ERD
 ![ERD](images/erd.png)
 
+<br><br>
+
+<div id="6"></div>
+
 ### 🖥️ 주요 기능 화면
 
 ---
@@ -119,6 +143,10 @@ ERD
 
 [프론트 엔드 화면들이 작동하는 것을 GIF로 나열하면 좋을 거 같음!]
 
+
+<br><br>
+
+<div id="7"></div>
 
 ### 팀원 소개
 
