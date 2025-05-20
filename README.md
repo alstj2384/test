@@ -133,7 +133,7 @@
 
 
 **아키텍쳐 구조도**
-![아키텍쳐](images/architecture.png)
+![아키텍쳐](images/Architecture.png)
 
 **ERD**
 ![ERD](images/erd.png)
